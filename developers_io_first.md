@@ -9,6 +9,8 @@
 * [環境構築] - VagrantとChefを使った環境構築
 * [cmder] - ポータブルなWindows用コンソールエミュレータ
 * [chef-repo] - 個人的に年末作ったChef+Berkshelf
+* [chef-repo] - 個人的に年末作ったChef+Berkshelf
+* [chef-repo] - 個人的に年末作ったChef+Berkshelf
 
 各種コマンド
 
